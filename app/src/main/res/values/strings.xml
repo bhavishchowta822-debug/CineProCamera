@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CinePro Camera</string>
+    <string name="iso_label">ISO</string>
+    <string name="shutter_label">Shutter Speed</string>
+    <string name="focus_label">Manual Focus</string>
+    <string name="white_balance_label">White Balance</string>
+    <string name="exposure_label">Exposure Compensation</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+</resources>
